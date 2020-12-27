@@ -1,0 +1,3 @@
+[submodule "jtag2updi"]
+	path = jtag2updi
+	url = https://github.com/ElTangas/jtag2updi
